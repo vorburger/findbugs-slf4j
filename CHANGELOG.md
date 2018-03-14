@@ -4,6 +4,8 @@ This changelog follows [Keep a Changelog v1.0.0](https://keepachangelog.com/en/1
 
 ## Unreleased
 
+- SLF4J_GET_STACK_TRACE bug pattern
+
 ## 1.4.1 - 2018-06-17
 ### Changed
 
